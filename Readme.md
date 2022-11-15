@@ -60,6 +60,8 @@ Technologies that I used to develop this api
 - [Native Base](https://nativebase.io/)
 - [Day.js](https://day.js.org/)
 
+## 💻 Getting started
+
 ### Requirements
 
 - [Started Server](https://github.com/vilmarsitiodigital/nlwcopa-api)
