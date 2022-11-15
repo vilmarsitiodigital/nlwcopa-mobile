@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Fastify Application for NlwCopa project
+  Mobile Application for NlwCopa
 </h3>
 
 <p align="center">Create your own cup pool and share it with friends!</p>
@@ -38,7 +38,7 @@
   <a href="#-license">License</a>
 </p>
 
-## 💇🏻‍♂️ About the project
+## ⚽ About the project
 
 This project provides everything needed to organize pools among your friends.
 
